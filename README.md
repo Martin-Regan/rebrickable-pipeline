@@ -81,3 +81,6 @@ Rebrickable API ──> ingest_rebrickable.py ──> Snowflake
                                                │  (typed SQL) │
                                                └──────────────┘
 ```
+
+## Development
+This project was created during a workshop exploring AI-assisted data engineering with Snowflake CoCo Desktop. The aim was to use natural-language prompts to build a working API-to-Snowflake data pipeline, then test and iterate on the generated solution.
